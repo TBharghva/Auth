@@ -1,4 +1,6 @@
-WebPage: This uses CRA
+Auth:
+1)"Start mongo server with mongod"
+2)"Do npm install"
+3)"Do npm start" 
 
-1)"Go to root and do npm install"
-2)"Do npm start"
+ Note: OTP  Authentication is not done.
